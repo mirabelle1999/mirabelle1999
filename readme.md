@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Welcome to jonz達月 Github Page!
+  Welcome to haruki達月 Github Page!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
@@ -10,7 +10,7 @@ Credits: https://github.com/alsiam/alsiam
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am Jonz De Paz!
+        <samp>&gt; Hey There!, I am Haruki! also known as mirabelle!
         <!--
                 <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
         -->
@@ -23,7 +23,7 @@ Credits: https://github.com/alsiam/alsiam
     <!--
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     -->
-    「 I am a Android developer/ Web developer from <b>Philippines</b> 」
+    「 I am an Android developer / Web developer from <b>Philippines</b> 」
     <br>
     <br>
   </samp>
@@ -83,11 +83,5 @@ Credits: https://github.com/alsiam/alsiam
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirabelle1999&theme=midnight_purple" alt="jonz達月's GitHub Contribution"/>
   </a>
 </p>
-
-<p align="center"> 
-    <a href="https://github.com/mirabelle1999"><img alt="jonz達月's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mirabelle1999&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"e" height="192px" width="49.5%"/></a>
-  <br/>
-</p>
-
 
 ![jonz達月's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mirabelle1999&custom_title=jonz達月's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
